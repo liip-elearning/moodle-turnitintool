@@ -1,3 +1,6 @@
+Source: Paul Dawson (https://moodle.org/plugins/view.php?plugin=mod_turnitintool)
+
+
 Moodle Direct Release Notes
 ------------------------------------------------------------------------------------
 Date:       2012-Dec-04
